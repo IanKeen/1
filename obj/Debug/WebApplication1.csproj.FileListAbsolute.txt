@@ -1,0 +1,36 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.xml
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.xml
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.csproj.App.config
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\EntityFramework.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\EntityFramework.xml
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\WebApplication1.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\EntityFramework.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\EntityFramework.xml
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.xml
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.xml
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.csproj.App.config
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Programing\Desktop\canal\requisiçao ajax\WebApplication1\obj\Debug\WebApplication1.pdb

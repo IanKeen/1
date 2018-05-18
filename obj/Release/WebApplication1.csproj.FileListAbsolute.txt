@@ -1,0 +1,11 @@
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Extensions.xml
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\bin\System.Net.Http.Primitives.xml
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Release\WebApplication1.csproj.App.config
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\Programing\Desktop\requisiçao ajax\WebApplication1\obj\Release\WebApplication1.pdb
